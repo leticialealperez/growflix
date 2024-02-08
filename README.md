@@ -1,6 +1,6 @@
 # Growflix
 
-![image]("./images/screenshot.png")
+<img src="./images/screenshot.png">
 
 ## 💻 Projeto
 
